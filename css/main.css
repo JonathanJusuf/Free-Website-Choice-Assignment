@@ -1,0 +1,48 @@
+* {
+	font-family: 'Cinzel', serif;
+	margin: 0px;
+}
+
+hr {
+	border: 1px solid #867A6F;
+	width: absolute;
+}
+
+nav {
+	background-color: #AA9F94;
+	height: 45px;
+}
+
+nav img {
+	float: top;
+	height: 17px;
+	width: 160px;
+	padding: 15px;
+	padding-left: 20px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+nav ul {
+	margin-top: 15px;
+	float: right;
+	margin-right: 65px;
+	font-size: 13px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	word-spacing: 50px;
+}
+
+nav li {
+	display: inline-block;
+}
+
+/** Body **/
+
+section img {
+	height: 800px;
+	width: 1440px;
+}
